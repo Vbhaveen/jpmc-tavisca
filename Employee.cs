@@ -1,7 +1,9 @@
 class Employee
 {
-    public Employee()
+    public static Main()
     {
-        Console.WriteLine("this is a employee constructor");
+        Console.WriteLine("hello");
     }
+
+int data = 6;
 }
