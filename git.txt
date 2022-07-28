@@ -1,0 +1,10 @@
+
+Git 
+
+git clone (link)
+git commit -m "first"
+git status
+git log
+git add .
+git push
+
